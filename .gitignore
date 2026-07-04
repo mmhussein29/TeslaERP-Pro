@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Build
+dist/
+build/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Exports & Backups
+exports/
+backups/
